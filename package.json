@@ -1,0 +1,19 @@
+{
+  "name": "jsf-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for jsfuck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickhpan/jsf-loader.git"
+  },
+  "author": "Patrick Pan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickhpan/jsf-loader/issues"
+  },
+  "homepage": "https://github.com/patrickhpan/jsf-loader#readme"
+}
